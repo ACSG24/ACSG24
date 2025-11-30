@@ -55,6 +55,11 @@
           <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white" alt="Canva" height="40">
           <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white" alt="Microsoft Office" height="40">
           <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white" alt="Flutter" height="40">
+          <img src="https://img.shields.io/badge/Power_Apps-742774?logo=power-apps&logoColor=white" alt="Power Apps" height="40">
+          <img src="https://img.shields.io/badge/Power_Automate-0066FF?logo=power-automate&logoColor=white" alt="Power Automate" height="40">
+          <img src="https://img.shields.io/badge/Power_BI-F2C811?logo=power-bi&logoColor=black" alt="Power BI" height="40">
+          <img src="https://img.shields.io/badge/SharePoint-0078D4?logo=microsoft-sharepoint&logoColor=white" alt="SharePoint" height="40">
+          <img src="https://img.shields.io/badge/Microsoft_Planner-31752F?logo=microsoft&logoColor=white" alt="Microsoft Planner" height="40">
       </p>
 
   <hr>
