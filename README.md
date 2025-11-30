@@ -68,7 +68,13 @@
             <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30">
         </a>
     </p>
-
+  <hr>
+    <h2>📊 Mis estadísticas</h2>
+    <p align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ACSG24&theme=tokyonight" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ACSG24&theme=tokyonight" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ACSG24&theme=tokyonight" />
+    </p>
   <hr>
     </p>
     <p align="center">
